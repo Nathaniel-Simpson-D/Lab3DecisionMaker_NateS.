@@ -1,0 +1,7 @@
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\bin\Debug\Lab3Decisionmaker_NateS.exe.config
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\bin\Debug\Lab3Decisionmaker_NateS.exe
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\bin\Debug\Lab3Decisionmaker_NateS.pdb
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\obj\Debug\Lab3Decisionmaker_NateS.csprojAssemblyReference.cache
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\obj\Debug\Lab3Decisionmaker_NateS.csproj.CoreCompileInputs.cache
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\obj\Debug\Lab3Decisionmaker_NateS.exe
+C:\CLabs\Lab3NateS\Lab3Decisionmaker_NateS\obj\Debug\Lab3Decisionmaker_NateS.pdb
